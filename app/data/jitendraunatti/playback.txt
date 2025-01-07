@@ -1,0 +1,15 @@
+Arrayarray(6) {
+  ["id"]=>
+  string(3) "183"
+  ["cmd"]=>
+  string(270) "http://hin2.cloud.xxx-cdn.org:9293/8ff02c8d28529a5cbcb8b83e21c360044b64be7c815919/index.m3u8?token=24a320be70f0a92b09b78729a4a0a8db1c2a17a4c5e5ceb5aaa1365c9d17e6ffbc1b84f46d11507ca438e6c3d5e37597abb68c37a0b65d9d2818460a0a7daffe7fa60dfb05-d33e0c950e169523a80b9dfee496ca8a"
+  ["streamer_id"]=>
+  int(0)
+  ["link_id"]=>
+  int(183)
+  ["load"]=>
+  int(0)
+  ["error"]=>
+  string(0) ""
+}
+generated in: 0.045s; query counter: 16; cache hits: 0; cache miss: 0; php errors: 0; sql errors: 0;
